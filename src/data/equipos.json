@@ -1,0 +1,61 @@
+[
+  { "id": "MEX", "nombre": "México", "grupo": "A", "puntosElo": 1750, "banderaUrl": "https://flagcdn.com/mx.svg" },
+  { "id": "RSA", "nombre": "Sudáfrica", "grupo": "A", "puntosElo": 1600, "banderaUrl": "https://flagcdn.com/za.svg" },
+  { "id": "KOR", "nombre": "Corea del Sur", "grupo": "A", "puntosElo": 1760, "banderaUrl": "https://flagcdn.com/kr.svg" },
+  { "id": "CZE", "nombre": "Chequia", "grupo": "A", "puntosElo": 1740, "banderaUrl": "https://flagcdn.com/cz.svg" },
+
+  { "id": "CAN", "nombre": "Canadá", "grupo": "B", "puntosElo": 1680, "banderaUrl": "https://flagcdn.com/ca.svg" },
+  { "id": "BIH", "nombre": "Bosnia y Herzegovina", "grupo": "B", "puntosElo": 1670, "banderaUrl": "https://flagcdn.com/ba.svg" },
+  { "id": "QAT", "nombre": "Qatar", "grupo": "B", "puntosElo": 1620, "banderaUrl": "https://flagcdn.com/qa.svg" },
+  { "id": "SUI", "nombre": "Suiza", "grupo": "B", "puntosElo": 1900, "banderaUrl": "https://flagcdn.com/ch.svg" },
+
+  { "id": "BRA", "nombre": "Brasil", "grupo": "C", "puntosElo": 2060, "banderaUrl": "https://flagcdn.com/br.svg" },
+  { "id": "MAR", "nombre": "Marruecos", "grupo": "C", "puntosElo": 1810, "banderaUrl": "https://flagcdn.com/ma.svg" },
+  { "id": "HAI", "nombre": "Haití", "grupo": "C", "puntosElo": 1550, "banderaUrl": "https://flagcdn.com/ht.svg" },
+  { "id": "SCO", "nombre": "Escocia", "grupo": "C", "puntosElo": 1720, "banderaUrl": "https://flagcdn.com/gb-sct.svg" },
+
+  { "id": "USA", "nombre": "Estados Unidos", "grupo": "D", "puntosElo": 1760, "banderaUrl": "https://flagcdn.com/us.svg" },
+  { "id": "PAR", "nombre": "Paraguay", "grupo": "D", "puntosElo": 1700, "banderaUrl": "https://flagcdn.com/py.svg" },
+  { "id": "AUS", "nombre": "Australia", "grupo": "D", "puntosElo": 1720, "banderaUrl": "https://flagcdn.com/au.svg" },
+  { "id": "TUR", "nombre": "Turquía", "grupo": "D", "puntosElo": 1750, "banderaUrl": "https://flagcdn.com/tr.svg" },
+
+  { "id": "GER", "nombre": "Alemania", "grupo": "E", "puntosElo": 1980, "banderaUrl": "https://flagcdn.com/de.svg" },
+  { "id": "CUW", "nombre": "Curazao", "grupo": "E", "puntosElo": 1520, "banderaUrl": "https://flagcdn.com/cw.svg" },
+  { "id": "CIV", "nombre": "Costa de Marfil", "grupo": "E", "puntosElo": 1700, "banderaUrl": "https://flagcdn.com/ci.svg" },
+  { "id": "ECU", "nombre": "Ecuador", "grupo": "E", "puntosElo": 1770, "banderaUrl": "https://flagcdn.com/ec.svg" },
+
+  { "id": "NED", "nombre": "Países Bajos", "grupo": "F", "puntosElo": 2010, "banderaUrl": "https://flagcdn.com/nl.svg" },
+  { "id": "JPN", "nombre": "Japón", "grupo": "F", "puntosElo": 1800, "banderaUrl": "https://flagcdn.com/jp.svg" },
+  { "id": "SWE", "nombre": "Suecia", "grupo": "F", "puntosElo": 1780, "banderaUrl": "https://flagcdn.com/se.svg" },
+  { "id": "TUN", "nombre": "Túnez", "grupo": "F", "puntosElo": 1700, "banderaUrl": "https://flagcdn.com/tn.svg" },
+
+  { "id": "BEL", "nombre": "Bélgica", "grupo": "G", "puntosElo": 2020, "banderaUrl": "https://flagcdn.com/be.svg" },
+  { "id": "EGY", "nombre": "Egipto", "grupo": "G", "puntosElo": 1690, "banderaUrl": "https://flagcdn.com/eg.svg" },
+  { "id": "IRN", "nombre": "Irán", "grupo": "G", "puntosElo": 1750, "banderaUrl": "https://flagcdn.com/ir.svg" },
+  { "id": "NZL", "nombre": "Nueva Zelanda", "grupo": "G", "puntosElo": 1580, "banderaUrl": "https://flagcdn.com/nz.svg" },
+
+  { "id": "ESP", "nombre": "España", "grupo": "H", "puntosElo": 2030, "banderaUrl": "https://flagcdn.com/es.svg" },
+  { "id": "CPV", "nombre": "Cabo Verde", "grupo": "H", "puntosElo": 1560, "banderaUrl": "https://flagcdn.com/cv.svg" },
+  { "id": "KSA", "nombre": "Arabia Saudita", "grupo": "H", "puntosElo": 1630, "banderaUrl": "https://flagcdn.com/sa.svg" },
+  { "id": "URU", "nombre": "Uruguay", "grupo": "H", "puntosElo": 1960, "banderaUrl": "https://flagcdn.com/uy.svg" },
+
+  { "id": "FRA", "nombre": "Francia", "grupo": "I", "puntosElo": 2110, "banderaUrl": "https://flagcdn.com/fr.svg" },
+  { "id": "SEN", "nombre": "Senegal", "grupo": "I", "puntosElo": 1760, "banderaUrl": "https://flagcdn.com/sn.svg" },
+  { "id": "IRQ", "nombre": "Irak", "grupo": "I", "puntosElo": 1600, "banderaUrl": "https://flagcdn.com/iq.svg" },
+  { "id": "NOR", "nombre": "Noruega", "grupo": "I", "puntosElo": 1760, "banderaUrl": "https://flagcdn.com/no.svg" },
+
+  { "id": "ARG", "nombre": "Argentina", "grupo": "J", "puntosElo": 2140, "banderaUrl": "https://flagcdn.com/ar.svg" },
+  { "id": "ALG", "nombre": "Argelia", "grupo": "J", "puntosElo": 1710, "banderaUrl": "https://flagcdn.com/dz.svg" },
+  { "id": "AUT", "nombre": "Austria", "grupo": "J", "puntosElo": 1800, "banderaUrl": "https://flagcdn.com/at.svg" },
+  { "id": "JOR", "nombre": "Jordania", "grupo": "J", "puntosElo": 1590, "banderaUrl": "https://flagcdn.com/jo.svg" },
+
+  { "id": "POR", "nombre": "Portugal", "grupo": "K", "puntosElo": 2000, "banderaUrl": "https://flagcdn.com/pt.svg" },
+  { "id": "COD", "nombre": "RD Congo", "grupo": "K", "puntosElo": 1600, "banderaUrl": "https://flagcdn.com/cd.svg" },
+  { "id": "UZB", "nombre": "Uzbekistán", "grupo": "K", "puntosElo": 1620, "banderaUrl": "https://flagcdn.com/uz.svg" },
+  { "id": "COL", "nombre": "Colombia", "grupo": "K", "puntosElo": 1940, "banderaUrl": "https://flagcdn.com/co.svg" },
+
+  { "id": "ENG", "nombre": "Inglaterra", "grupo": "L", "puntosElo": 2040, "banderaUrl": "https://flagcdn.com/gb-eng.svg" },
+  { "id": "CRO", "nombre": "Croacia", "grupo": "L", "puntosElo": 1950, "banderaUrl": "https://flagcdn.com/hr.svg" },
+  { "id": "GHA", "nombre": "Ghana", "grupo": "L", "puntosElo": 1650, "banderaUrl": "https://flagcdn.com/gh.svg" },
+  { "id": "PAN", "nombre": "Panamá", "grupo": "L", "puntosElo": 1660, "banderaUrl": "https://flagcdn.com/pa.svg" }
+]
